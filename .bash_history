@@ -81,3 +81,34 @@ git checkout master
 git branch
 git merge gupta 
 ls
+git init
+git branch
+git checkout gupta
+vi may
+ls
+git checkout master
+ls
+git push -u origin master
+git remote add origin https://github.com/Milind-gupta/hello--world.git
+git push -u origin master
+git init
+git branch
+git branch mouse
+ls
+git checkout mouse
+ls
+touch hhhhhh
+ls
+git add .
+git commit -m "kkkkkk"
+get push -u origin mouse
+git push -u origin mouse
+git checkout gupta
+ls
+git merge mouse
+ls
+git add .
+git commit -m "gggggg"
+git push -u origin gupta
+git init
+vi lion

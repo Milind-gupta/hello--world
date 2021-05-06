@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1620291272,,"wq"
+|2,0,1620292538,,"wq"
 :q
 |2,0,1620288541,,"q"
 
@@ -27,22 +27,52 @@
 # Registers:
 
 # File marks:
-'0  1  7  ~/may
-|4,48,1,7,1620291272,"~/may"
-'1  1  13  ~/demo
-|4,49,1,13,1620289742,"~/demo"
-'2  1  8  ~/hello-world-master/txt
-|4,50,1,8,1620288575,"~/hello-world-master/txt"
-'3  1  0  ~/hello-world-master/txt
-|4,51,1,0,1620288541,"~/hello-world-master/txt"
+'0  1  8  ~/lion
+|4,48,1,8,1620292538,"~/lion"
+'1  3  0  ~/[Command Line]
+|4,49,3,0,1620292434,"~/[Command Line]"
+'2  1  7  ~/may
+|4,50,1,7,1620291272,"~/may"
+'3  1  13  ~/demo
+|4,51,1,13,1620289742,"~/demo"
+'4  1  8  ~/hello-world-master/txt
+|4,52,1,8,1620288575,"~/hello-world-master/txt"
+'5  1  0  ~/hello-world-master/txt
+|4,53,1,0,1620288541,"~/hello-world-master/txt"
 
 # Jumplist (newest first):
+-'  1  8  ~/lion
+|4,39,1,8,1620292538,"~/lion"
+-'  3  0  ~/[Command Line]
+|4,39,3,0,1620292434,"~/[Command Line]"
+-'  3  0  ~/[Command Line]
+|4,39,3,0,1620292434,"~/[Command Line]"
+-'  1  0  ~/lion
+|4,39,1,0,1620292338,"~/lion"
+-'  1  7  ~/may
+|4,39,1,7,1620291272,"~/may"
+-'  1  7  ~/may
+|4,39,1,7,1620291272,"~/may"
+-'  1  7  ~/may
+|4,39,1,7,1620291272,"~/may"
 -'  1  7  ~/may
 |4,39,1,7,1620291272,"~/may"
 -'  1  13  ~/demo
 |4,39,1,13,1620289742,"~/demo"
 -'  1  13  ~/demo
 |4,39,1,13,1620289742,"~/demo"
+-'  1  13  ~/demo
+|4,39,1,13,1620289742,"~/demo"
+-'  1  13  ~/demo
+|4,39,1,13,1620289742,"~/demo"
+-'  1  13  ~/demo
+|4,39,1,13,1620289742,"~/demo"
+-'  1  13  ~/demo
+|4,39,1,13,1620289742,"~/demo"
+-'  1  13  ~/demo
+|4,39,1,13,1620289742,"~/demo"
+-'  1  13  ~/demo
+|4,39,1,13,1620289742,"~/demo"
 -'  1  8  ~/hello-world-master/txt
 |4,39,1,8,1620288575,"~/hello-world-master/txt"
 -'  1  8  ~/hello-world-master/txt
@@ -51,6 +81,54 @@
 |4,39,1,8,1620288575,"~/hello-world-master/txt"
 -'  1  8  ~/hello-world-master/txt
 |4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
 -'  1  0  ~/hello-world-master/txt
 |4,39,1,0,1620288541,"~/hello-world-master/txt"
 -'  1  0  ~/hello-world-master/txt
@@ -61,6 +139,13 @@
 |4,39,1,0,1620288541,"~/hello-world-master/txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/lion
+	*	1620292535	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
 
 > ~/may
 	*	1620291269	0
