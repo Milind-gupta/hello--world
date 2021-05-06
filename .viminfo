@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1620289742,,"wq"
+|2,0,1620291272,,"wq"
 :q
 |2,0,1620288541,,"q"
 
@@ -27,26 +27,47 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/demo
-|4,48,1,13,1620289742,"~/demo"
-'1  1  8  ~/hello-world-master/txt
-|4,49,1,8,1620288575,"~/hello-world-master/txt"
-'2  1  0  ~/hello-world-master/txt
-|4,50,1,0,1620288541,"~/hello-world-master/txt"
+'0  1  7  ~/may
+|4,48,1,7,1620291272,"~/may"
+'1  1  13  ~/demo
+|4,49,1,13,1620289742,"~/demo"
+'2  1  8  ~/hello-world-master/txt
+|4,50,1,8,1620288575,"~/hello-world-master/txt"
+'3  1  0  ~/hello-world-master/txt
+|4,51,1,0,1620288541,"~/hello-world-master/txt"
 
 # Jumplist (newest first):
+-'  1  7  ~/may
+|4,39,1,7,1620291272,"~/may"
+-'  1  13  ~/demo
+|4,39,1,13,1620289742,"~/demo"
 -'  1  13  ~/demo
 |4,39,1,13,1620289742,"~/demo"
 -'  1  8  ~/hello-world-master/txt
 |4,39,1,8,1620288575,"~/hello-world-master/txt"
 -'  1  8  ~/hello-world-master/txt
 |4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  8  ~/hello-world-master/txt
+|4,39,1,8,1620288575,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
+-'  1  0  ~/hello-world-master/txt
+|4,39,1,0,1620288541,"~/hello-world-master/txt"
 -'  1  0  ~/hello-world-master/txt
 |4,39,1,0,1620288541,"~/hello-world-master/txt"
 -'  1  0  ~/hello-world-master/txt
 |4,39,1,0,1620288541,"~/hello-world-master/txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/may
+	*	1620291269	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
 
 > ~/demo
 	*	1620289739	0
